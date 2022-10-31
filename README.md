@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Ondeyo</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">I am a frontend developer</h3>
 
-- 🔭 I’m currently working on [Global Clock Project](https://github.com/OndeyoMatoke/Global-Clock-.git)
+- 🔭 I’m currently working on **frontend projects using JavaScript, React.js, CSS, and HTML**
 
 - 🌱 I’m currently learning **React.js,**
+
+- 👯 I’m looking to collaborate on **frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OndeyoMatoke](https://github.com/OndeyoMatoke)
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **ondeyostephen30@gmail.com**
 
-- ⚡ Fun fact **I like making fun of my friends**
+- ⚡ Fun fact **I'm learning as much as I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
