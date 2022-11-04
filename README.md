@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OndeyoMatoke](https://github.com/OndeyoMatoke)
 
-- 📝 I regularly write articles on [Economics, Accounting, and more](Economics, Accounting, and more)
-
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
 - 📫 How to reach me **ondeyostephen30@gmail.com**
