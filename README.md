@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at https://stephen-ondeyo-portifolio.vercel.app/
+- 👨‍💻 All of my projects are available at https://stephen-ondeyo-portifolio-git-master-ondeyomatoke.vercel.app/projects
 
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
