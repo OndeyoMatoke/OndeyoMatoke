@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Stephen Ondeyo</h1>
 <h3 align="center">I am a frontend developer</h3>
 
-- 🔭 I’m currently working on **frontend projects using JavaScript, React.js, CSS, and HTML**
+- 🔭 I’m currently working on **frontend projects using React.js, JavaScript, CSS, and HTML**
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **frontend development**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
 - 👨‍💻 All of my projects are available at https://stephen-ondeyo-portifolio-git-master-ondeyomatoke.vercel.app/projects
 
-- 💬 Ask me about **JavaScript, CSS, HTML**
+- 💬 Ask me about **React.js, JavaScript, CSS, HTML**
 
 - 📫 How to reach me **ondeyostephen30@gmail.com**
 
-- ⚡ Fun fact **I'm learning as much as I can**
+- ⚡ Fun fact **A cat is better than a dog as a pet. Prove me wrong!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
